@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/mehar/Desktop/Education/Sem 8/276/Git Lab/Hello-World'
+g++ -std=c++11 -Wall -o myapp  
+make: Leaving directory `/Users/mehar/Desktop/Education/Sem 8/276/Git Lab/Hello-World'
+ 
